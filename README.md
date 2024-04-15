@@ -9,16 +9,16 @@
  
  Studying computer systems engineering got me interested in cybersecurity. Now, I'm excited to shift into cybersecurity and start as a Tier 1 Analyst
 
- ## Skills
+ ## Projects Overvie
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | SOC Automation Lab|
-| Network Traffic Monitoring and Attack Detection | SOC Automation Lab|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Project                                       | Skills            | Tools                 | Link       | 
+|-----------------------------------------------|-------------------|-----------------------|------------|
+| SIEM Implementation and Log Analysis          | SOC Automation Lab| Nmap                  | lin        |
+| Network Traffic Monitoring and Attack Detection | SOC Automation Lab| Nmap                | lin        |
+| Security Automation with Shuffle SOAR         | SOC Automation Lab| Nmap                  | lin        |
+| Incident Response Planning and Execution      | SOC Automation Lab| Nmap                  | lin        |
+| Case Management with TheHive                  | SOC Automation Lab| Nmap                  | lin        |
+| Scripting and Automation for Threat Mitigation| SOC Automation Lab| Nmap                  | lin        |
 
 ## Tools
 
