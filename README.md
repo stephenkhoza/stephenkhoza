@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephen! <br/><a href="https://github.com/stephenkhoza">Programmer</a>, <a href="https://www.linkedin.com/in/stephen-khoza-307477151/">Cybersecurity Analyst</a></h1>
+<h1>Hi, I'm Stephen! <br/><a href="https://github.com/stephenkhoza">Software Developer</a>, <a href="https://www.linkedin.com/in/stephen-khoza-307477151/">Cybersecurity Analyst</a></h1>
 <a href="https://linkedin.com/in/stephen-khoza-307477151/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
