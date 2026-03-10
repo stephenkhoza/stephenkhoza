@@ -17,7 +17,7 @@
 
 I am a **Software Engineer and Full Stack Developer** passionate about building scalable web applications and solving complex technical problems.
 
-I specialize in **JavaScript,C#,Java,Python, React, Node.js, and cloud-based systems**, with additional experience in **cybersecurity, system design, and networking**.
+I specialize in **JavaScript,C#,Java,Python, React, Node.js, PostgreSQL, and cloud-based systems**, with additional experience in **cybersecurity, system design, and networking**.
 
 I enjoy creating real-world solutions including **customer portals,management systems fintech systems, and service platforms**.
 
