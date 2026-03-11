@@ -38,6 +38,24 @@ I am particularly interested in:
 
 # 🚀 Featured Projects
 
+## 🚀 Projects Portfolio
+
+| Project | Description | Technologies | Repository |
+|--------|-------------|-------------|------------|
+| **Stentech Web App** | Repair booking and device tracking platform for Stentech customers | React, Node.js, PostgreSQL | [View Project](https://github.com/stephenkhoza/stentech-webapp) |
+| **Powerhouse Stokvel Frontend** | Frontend interface for the Powerhouse financial savings management system | React, JavaScript | [View Project](https://github.com/stephenkhoza/powerhouse-stokvel-frontend) |
+| **Powerhouse Stokvel Backend** | Backend API for managing stokvel contributions, payouts, and users | Node.js, Express, PostgreSQL | [View Project](https://github.com/stephenkhoza/powerhouse-stokvel-backend) |
+| **Warehouse Management System** | Warehouse inventory and logistics management system | C# | [View Project](https://github.com/stephenkhoza/WarehouseMS) |
+| **Eullys Atelier Website** | Fashion brand website showcasing products and brand story | React, JavaScript | [View Project](https://github.com/stephenkhoza/eullys-atelier) |
+| **Electric Construction Website** | Business website for an electrical construction company | JavaScript, HTML, CSS | Private Repository |
+| **Logistics Transportation Travel Services** | Logistics and transportation services company website | HTML, CSS | Private Repository |
+| **Lwandle Cash Loan** | Loan services company website | HTML, CSS | Private Repository |
+| **Mabble Transport Solutions** | Website for a transport and logistics company | HTML, CSS | Private Repository |
+| **Kasitel Website** | Corporate website project for Kasitel | JavaScript, CSS | Private Repository |
+| **Kasitel Website 2** | Updated version of the Kasitel company website | CSS, HTML | Private Repository |
+| **Stentech Mobile App** | Mobile application for Stentech repair services | JavaScript | Private Repository |
+
+
 | Project | Description | Technologies | Link |
 |------|-------------|-------------|------|
 | Stentech Repair Portal | Customer repair booking and device tracking platform | React, Node.js, PostgreSQL | Coming Soon |
