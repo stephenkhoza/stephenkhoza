@@ -17,6 +17,168 @@
 
 I am a **Software Engineer and Full Stack Developer** passionate about building scalable web applications and solving complex technical problems.
 
+I specialize in **JavaScript, C#, Java, Python, React, Node.js, and PostgreSQL**, with additional experience in **cybersecurity, system design, and networking**.
+
+I enjoy creating real-world solutions including **customer portals, management systems, fintech platforms, and service applications**.
+
+---
+
+# 🎯 Career Objective
+
+My goal is to grow as a **Software Engineer** by designing and building **secure, scalable, and efficient software systems**.
+
+Areas of interest:
+
+- Full Stack Development
+- Cloud Applications
+- Secure Software Engineering
+- Financial Technology Systems
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Technologies | Repository |
+|------|-------------|-------------|------|
+| **Stentech Web App** | Repair booking and device tracking platform for customers | React, Node.js, PostgreSQL | [View Project](https://github.com/stephenkhoza/stentech-webapp) |
+| **Powerhouse Stokvel Frontend** | Financial savings management application | React, JavaScript | [View Project](https://github.com/stephenkhoza/powerhouse-stokvel-frontend) |
+| **Powerhouse Stokvel Backend** | Backend API for managing stokvel contributions and payouts | Node.js, Express, PostgreSQL | [View Project](https://github.com/stephenkhoza/powerhouse-stokvel-backend) |
+| **Warehouse Management System** | Warehouse inventory and logistics system | C# | [View Project](https://github.com/stephenkhoza/WarehouseMS) |
+| **Eullys Atelier Website** | Fashion brand website and online platform | React, JavaScript | [View Project](https://github.com/stephenkhoza/eullys-atelier) |
+
+---
+
+# 🧰 Tech Stack
+
+## 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🌐 Web Development
+
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js)
+
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+---
+
+## ☁ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+
+---
+
+# 🔐 Cybersecurity Tools
+
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk)
+![Nessus](https://img.shields.io/badge/-Nessus-00C8FF?style=for-the-badge&logo=Nessus)
+![Metasploit](https://img.shields.io/badge/-Metasploit-ED1C24?style=for-the-badge&logo=Metasploit)
+![Nmap](https://img.shields.io/badge/-Nmap-2C2D72?style=for-the-badge&logo=Nmap)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&theme=tokyonight" />
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=stephenkhoza&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+- 🎓 **Computer Systems Engineering** — Tshwane University of Technology  
+- 💻 **Full-Stack Web Development** — Udemy  
+- 📱 **Mobile Application Development** — IT Varsity  
+- 🛡 **CompTIA CySA+ (Cybersecurity Analyst)**  
+- 🌐 **Huawei Network Technology Certification**  
+- 🐍 **Python Intermediate** — SoloLearn  
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/stephen-khoza-307477151/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ *Building scalable software systems and learning something new every day.*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- <h1 align="center">Hi, I'm Stephen Khoza 👋</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+<a href="https://github.com/stephenkhoza">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/stephen-khoza-307477151/">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+I am a **Software Engineer and Full Stack Developer** passionate about building scalable web applications and solving complex technical problems.
+
 I specialize in **JavaScript,C#,Java,Python, React, Node.js, PostgreSQL, and cloud-based systems**, with additional experience in **cybersecurity, system design, and networking**.
 
 I enjoy creating real-world solutions including **customer portals,management systems fintech systems, and service platforms**.
@@ -141,7 +303,7 @@ I am particularly interested in:
 
 ---
 
-⭐ *Building scalable software systems and learning something new every day.*
+⭐ *Building scalable software systems and learning something new every day.* -->
 
 
 
