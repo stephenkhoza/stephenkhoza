@@ -118,13 +118,14 @@ I am particularly interested in:
 
 ---
 
-# 📜 Certifications
+## 📜 Certifications
 
-🎓 Computer Systems Engineering — Tshwane University of Technology  
-🛡 CompTIA CySA+  
-📱 Mobile Application Development — IT Varsity  
-🐍 Python Intermediate — SoloLearn  
-🌐 Huawei Network Technology Certification  
+- 🎓 **Computer Systems Engineering** — Tshwane University of Technology  
+- 💻 **Full-Stack Web Development** — Udemy  
+- 📱 **Mobile Application Development** — IT Varsity  
+- 🛡 **CompTIA CySA+ (Cybersecurity Analyst)**  
+- 🌐 **Huawei Network Technology Certification**  
+- 🐍 **Python Intermediate** — SoloLearn
 
 ---
 
