@@ -101,11 +101,17 @@ Areas of interest:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&theme=tokyonight" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&theme=tokyonight" /> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&count_private=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&theme=tokyonight&count_private=true" />
 
 </p>
+
+
 
 ---
 
@@ -428,4 +434,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> d-->
+--> 
