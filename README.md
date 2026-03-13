@@ -99,11 +99,27 @@ Areas of interest:
 
 # 📊 GitHub Stats
 
+
 <p align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&theme=tokyonight" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkhoza&layout=compact&langs_count=8&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenkhoza&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=stephenkhoza&theme=tokyo-night" />
+</p>
+
+
+<!-- <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=stephenkhoza&show_icons=true&count_private=true&theme=tokyonight" />
 
@@ -113,7 +129,7 @@ Areas of interest:
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=stephenkhoza&theme=tokyonight" />
-</p>
+</p> -->
 
 
 
